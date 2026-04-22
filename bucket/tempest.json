@@ -9,7 +9,7 @@
     "architecture": {
         "64bit": {
             "url": "https://download.gotempest.app/Tempest-3.6.1-setup.exe",
-            "hash": "459d7ff52990549aef5fdc9b5e03e7cd683112e22b4a8937e2d313e2c61ae45b"
+            "hash": "a0c94a27a453713d718dbb3e4a2edd4249722974599ee1cc25249d73c05a2367"
         }
     },
     "installer": {
