@@ -1,0 +1,34 @@
+{
+    "version": "0.0.0",
+    "description": "The all-platform terminal emulator for the modern age",
+    "homepage": "https://gotempest.app",
+    "license": {
+        "identifier": "Proprietary",
+        "url": "https://gotempest.app/terms"
+    },
+    "architecture": {
+        "64bit": {
+            "url": "https://download.gotempest.app/Tempest-0.0.0-setup.exe",
+            "hash": "placeholder"
+        }
+    },
+    "installer": {
+        "type": "nsis",
+        "args": ["/S"]
+    },
+    "uninstaller": {
+        "file": "$dir\\uninstall.exe",
+        "args": ["/S"]
+    },
+    "checkver": {
+        "url": "https://download.gotempest.app/latest.yml",
+        "regex": "version: ([\\d.]+)"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://download.gotempest.app/Tempest-$version-setup.exe"
+            }
+        }
+    }
+}
