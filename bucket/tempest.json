@@ -1,5 +1,5 @@
 {
-    "version": "3.8.0",
+    "version": "3.8.2",
     "description": "The all-platform terminal emulator for the modern age",
     "homepage": "https://gotempest.app",
     "license": {
@@ -8,8 +8,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://download.gotempest.app/Tempest-3.8.0-setup.exe",
-            "hash": "84f1feb0a72e20339c4426c047e7346af0ff7834133dd8479da6ec51a7ddc0e8"
+            "url": "https://download.gotempest.app/Tempest-3.8.2-setup.exe",
+            "hash": "32ca5e568d439b3e8a3ee2e17417e580de35306351c99e0566d1e19d807fb2b6"
         }
     },
     "installer": {
