@@ -9,7 +9,7 @@
     "architecture": {
         "64bit": {
             "url": "https://download.gotempest.app/cli/tempest-3.9.0-windows-x86_64.zip",
-            "hash": "e140a6cf3d09692bcc378ff0a48495d50e3698326cbf1cd8ddb3b669e6363349"
+            "hash": "7da22fc7a727ecc11513219ca29446951c5ca1d97ccebd6b4451af3907c20d83"
         }
     },
     "bin": "tempest.exe",
