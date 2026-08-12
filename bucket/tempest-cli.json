@@ -1,5 +1,5 @@
 {
-    "version": "3.13.2",
+    "version": "3.14.0",
     "description": "All-platform terminal emulator CLI: SSH, Telnet, RCON, FS, MCP server",
     "homepage": "https://gotempest.app",
     "license": {
@@ -8,8 +8,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://download.gotempest.app/cli/tempest-3.13.2-windows-x86_64.zip",
-            "hash": "1992c084cb112b3a2a31f2f62149515240a80bf5c9ec66c55604ee282a22318f"
+            "url": "https://download.gotempest.app/cli/tempest-3.14.0-windows-x86_64.zip",
+            "hash": "ee8d336c555c80564aa7f03746a885942b615c859477f58715354b31c4905367"
         }
     },
     "bin": "tempest.exe",
