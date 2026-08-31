@@ -1,5 +1,5 @@
 {
-    "version": "3.16.0",
+    "version": "3.16.1",
     "description": "The all-platform terminal emulator for the modern age",
     "homepage": "https://gotempest.app",
     "license": {
@@ -8,12 +8,12 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://download.gotempest.app/Tempest-3.16.0-x64-setup.exe",
-            "hash": "906c8cce945f5ad4bba6d44e829d5fa11ffee4b277cc174d64e34536222e00fe"
+            "url": "https://download.gotempest.app/Tempest-3.16.1-x64-setup.exe",
+            "hash": "d106212d0d873eb06d739e8b4ffd0433e4001e909f33e225085603151c0c871d"
         },
         "arm64": {
-            "url": "https://download.gotempest.app/Tempest-3.16.0-arm64-setup.exe",
-            "hash": "3e7c7a4d905418ab59f31816c6a36d77fcd0795c55503eefee5465ce325cf212"
+            "url": "https://download.gotempest.app/Tempest-3.16.1-arm64-setup.exe",
+            "hash": "5bf6e36f5b5736de87e35acb1dfeafb31391dfdd5d71c226e5a31c3d52d4995e"
         }
     },
     "installer": {
