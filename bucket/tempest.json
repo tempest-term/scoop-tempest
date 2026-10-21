@@ -1,5 +1,5 @@
 {
-    "version": "3.17.2",
+    "version": "3.17.3",
     "description": "The all-platform terminal emulator for the modern age",
     "homepage": "https://gotempest.app",
     "license": {
@@ -8,12 +8,12 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://download.gotempest.app/Tempest-3.17.2-x64-setup.exe",
-            "hash": "e80ef747b052f3cdf771fee26e89a0f176b084f1089c73dc42d3a5fd648463a5"
+            "url": "https://download.gotempest.app/Tempest-3.17.3-x64-setup.exe",
+            "hash": "a83eaa231b17ce137c006100c11d70a54467e148eebbd072150db0b818dd87b0"
         },
         "arm64": {
-            "url": "https://download.gotempest.app/Tempest-3.17.2-arm64-setup.exe",
-            "hash": "77c380e6c3f4dbdda4a940561abbd15be8d2107c8ec2326e43fe5a5140565e89"
+            "url": "https://download.gotempest.app/Tempest-3.17.3-arm64-setup.exe",
+            "hash": "d0279e2482e2d118b4225f950f0c542eb28781c82b3866b4d3b4ce31cecde619"
         }
     },
     "installer": {
